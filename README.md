@@ -1,5 +1,7 @@
 # Terraform Beginner Bootcamp 2023
 
+18/11/2023
+
 ## Semantic Versioning :mage:
 
 This project is going utlize semantic versioning for its tagging.
