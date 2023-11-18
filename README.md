@@ -3,6 +3,7 @@
 18/11/2023
 
 ## Semantic Versioning :mage:
+## Semantic Versioning :right_anger_bubble:
 
 This project is going utlize semantic versioning for its tagging.
 [semver.org](https://semver.org/)
