@@ -1,6 +1,9 @@
 # Terraform Beginner Bootcamp 2023
 
+18/11/2023
+
 ## Semantic Versioning :mage:
+##  aSemantic Versioning :right_anger_bubble:
 
 This project is going utlize semantic versioning for its tagging.
 [semver.org](https://semver.org/)
